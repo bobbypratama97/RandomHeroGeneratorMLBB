@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/nav_group1"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_random_all"
+            android:title="Random All"/>
+
+        <item android:id="@+id/nav_random_by_role"
+            android:title="Random by Role"/>
+
+        <item android:id="@+id/nav_random_by_speciality"
+            android:title="Random by Speciality"/>
+    </group>
+
+    <group android:id="@+id/nav_group2"
+        android:checkableBehavior="single">
+        <item android:id="@+id/nav_random_group"
+            android:title="Random Group"/>
+    </group>
+</menu>

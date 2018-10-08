@@ -1,0 +1,65 @@
+ID,Name,Role1,Role2,Speciality1,Speciality2,BP,Diamond,Ticket
+1,Miya,Marksman,,Reap,,10800,0,399
+2,Balmond,Fighter,Tank,Crowd Control,Regen,6500,299,0
+3,Saber,Assassin,,Charge,Reap,6500,254,0
+4,Alice,Mage,,Charge,Regen,15000,399,0
+5,Nana,Support,Mage,Reap,Crowd Control,6500,299,0
+6,Tigreal,Tank,,Crowd Control,Initiator,6500,0,299
+7,Alucard,Fighter,Assassin,Charge,Crowd Control,15000,0,399
+8,Karina,Assassin,Mage,Charge,Reap,32000,599,0
+9,Akai,Tank,,Charge,Crowd Control,32000,0,599
+10,Franco,Tank,,Initiator,,32000,0,749
+11,Bane,Fighter,,Push,,6500,299,0
+12,Bruno,Marksman,,Reap,,15000,399,0
+13,Clint,Marksman,,Burst,Poke,15000,0,399
+14,Rafaela,Support,,Regen,,6500,0,299
+15,Eudora,Mage,,Damage,Reap,2000,299,0
+16,Zilong,Fighter,Assassin,Charge,Initiator,0,0,0
+17,Fanny,Assassin,,Charge,Reap,24000,499,0
+18,Layla,Marksman,,Reap,,0,0,0
+19,Minotaur,Tank,Support,Crowd Control,,15000,399,0
+20,Lolita,Tank,Support,Crowd Control,Push,32000,599,0
+21,Hayabusa,Assassin,,Charge,Burst,32000,599,0
+22,Freya,Fighter,,Charge,Burst,0,0,0
+23,Gord,Mage,,Damage,Poke,24000,0,499
+24,Natalia,Assassin,,Charge,Burst,32000,599,0
+25,Kagura,Mage,,Damage,Reap,32000,599,0
+26,Chou,Fighter,,Charge,Burst,24000,499,0
+27,Sun,Fighter,,Charge,Push,32000,599,0
+28,Alpha,Fighter,,Charge,Damage,32000,599,0
+29,Ruby,Fighter,,Crowd Control,,32000,599,0
+30,Yi Sun-shin,Marksman,,Reap,Poke,32000,599,0
+31,Moskov,Marksman,,Push,Burst,32000,599,0
+32,Johnson,Tank,,Crowd Control,Initiator,32000,599,0
+33,Cyclops,Mage,,Damage,Poke,15000,399,0
+34,Estes,Support,,Regen,Poke,24000,499,0
+35,Hilda,Fighter,Tank,Regen,Damage,24000,499,0
+36,Aurora,Mage,,Crowd Control,Burst,24000,499,0
+37,Lapu-Lapu,Fighter,Assassin,Charge,Burst,32000,599,0
+38,Vexana,Mage,,Poke,Crowd Control,32000,599,0
+39,Roger,Fighter,Marksman,Reap,Burst,24000,499,0
+40,Karrie,Marksman,,Reap,Burst,24000,499,0
+41,Gatotkaca,Tank,,Crowd Control,Initiator,32000,599,0
+42,Harley,Mage,,Damage,Poke,32000,599,0
+43,Irithel,Marksman,,Reap,,32000,599,0
+44,Grock,Tank,,Charge,Initiator,32000,599,0
+45,Argus,Fighter,,Charge,Burst,32000,599,0
+46,Odette,Mage,,Burst,Poke,0,0,0
+47,Lancelot,Assassin,,Charge,Burst,32000,599,0
+48,Diggie,Support,,Crowd Control,Poke,24000,499,0
+49,Hylos,Tank,,Regen,Poke,32000,599,0
+50,Zhask,Mage,,Push,Poke,32000,599,0
+51,Helcurt,Assassin,,Charge,Burst,32000,599,0
+52,Pharsa,Mage,,Damage,Poke,32000,599,0
+53,Lesley,Marksman,Assassin,Reap,Burst,32000,599,0
+54,Jawhead,Fighter,,Charge,Burst,32000,599,0
+55,Angela,Support,,Regen,Poke,24000,499,0
+56,Gusion,Assassin,Mage,Charge,Burst,32000,599,0
+57,Valir,Mage,,Burst,Poke,32000,599,0
+58,Martis,Fighter,,Reap,Burst,32000,599,0
+59,Uranus,Tank,,Regen,Poke,32000,599,0
+60,Hanabi,Marksman,,Regen,Burst,32000,599,0
+61,Chang'e,Mage,,Reap,Poke,32000,599,0
+62,Kaja,Support,Tank,Initiator,Charge,32000,599,0
+63,Selena,Mage,Assassin,Reap,Burst,32000,599,0
+64,Aulrad,Fighter,,Push,Burst,32000,599,0
